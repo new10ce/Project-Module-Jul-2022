@@ -7,3 +7,7 @@
 
 java -jar build/libs/java-basics-1.0-SNAPSHOT.jar
 ```
+
+## What is a thread?
+
+```lightweight process
